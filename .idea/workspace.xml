@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a65a6f8d-995d-4386-8894-b01dea1a6ed6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/android/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_adobe_xmp_xmpcore_5_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_23_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_23_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_recyclerview_v7_23_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_support_annotations_23_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_support_v4_23_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_drewnoakes_metadata_extractor_2_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_drawee_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_fbcore_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_fresco_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_okhttp3_0_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_react_react_native_0_40_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_zxing_core_3_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_nineoldandroids_library_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_ws_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_webkit_android_jsc_r174650_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/IndexLanguage.js" beforeDir="false" afterPath="$PROJECT_DIR$/Language/IndexLanguage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_adobe_xmp_xmpcore_5_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_android_support_appcompat_v7_23_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_android_support_appcompat_v7_23_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_android_support_recyclerview_v7_23_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_android_support_support_annotations_23_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_android_support_support_v4_23_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_drewnoakes_metadata_extractor_2_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_drawee_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_fbcore_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_fresco_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_imagepipeline_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_imagepipeline_base_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_fresco_imagepipeline_okhttp3_0_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_react_react_native_0_40_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_facebook_soloader_soloader_0_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_google_code_findbugs_jsr305_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_google_zxing_core_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_nineoldandroids_library_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_parse_bolts_bolts_tasks_1_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_squareup_okhttp3_okhttp_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_squareup_okhttp3_okhttp_urlconnection_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_squareup_okhttp3_okhttp_ws_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/com_squareup_okio_okio_1_9_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/libraries/org_webkit_android_jsc_r174650.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/android/support/v4/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/android/support/v7/appcompat/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/android/support/v7/recyclerview/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/br/com/classapp/RNSensitiveInfo/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/drawee/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/drawee/backends/pipeline/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/fbcore/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/imagepipeline/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/imagepipeline/backends/okhttp3/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/imagepipelinebase/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/react/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/facebook/soloader/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/lwansbrough/RCTCamera/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/oblador/vectoricons/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/rnfs/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/com/ventas/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/release/org/webkit/android_jsc/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/assets/debug/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/assets/debug/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/assets/debug/index.android.bundle.meta" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/assets/debug/index.android.bundle.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/assets/release/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/assets/release/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/assets/release/index.android.bundle.meta" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/assets/release/index.android.bundle.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle.meta" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/6bf635d318d849c4f811cb7f5b6cc7f7-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/6bf635d318d849c4f811cb7f5b6cc7f7-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/7bea8ce6772f7d7e73de7c0a7f1bc33c-desc.xcbuild" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/7bea8ce6772f7d7e73de7c0a7f1bc33c-desc.xcbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/7bea8ce6772f7d7e73de7c0a7f1bc33c-manifest.xcbuild" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/7bea8ce6772f7d7e73de7c0a7f1bc33c-manifest.xcbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/BuildDescriptionCacheIndex-36e78d1bfa50f49af085f047a495ff19" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/BuildDescriptionCacheIndex-36e78d1bfa50f49af085f047a495ff19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/rnSupnuevo" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/rnSupnuevo.app/rnSupnuevo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/BC5DDDAB-9A5F-4505-A556-08A3F7827EA9.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/LogStoreManifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Logs/Build/LogStoreManifest.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/ModuleCache.noindex/Session.modulevalidation" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/ModuleCache.noindex/Session.modulevalidation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-camera/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-camera/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-camera/android/react-native-camera.iml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-camera/android/react-native-camera.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-fs/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-fs/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-fs/android/react-native-fs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-fs/android/react-native-fs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-image-to-base64/android/react-native-image-to-base64.iml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-image-to-base64/android/react-native-image-to-base64.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-sensitive-info/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-sensitive-info/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-sensitive-info/android/react-native-sensitive-info.iml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-sensitive-info/android/react-native-sensitive-info.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="supnuevo_ventas" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/containers/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="78" column="36" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/action/actionCreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>该位置上有商品是否覆盖</find>
+      <find>stretch</find>
+      <find>contain</find>
+      <find>waitshow</find>
+      <find>showPopover</find>
+      <find>menu</find>
+      <find>COM</find>
+      <find>COMPRAR</find>
+      <find>login</find>
+      <find>android</find>
+      <find>platform</find>
+      <find>getCommodityPriceFormByPriceId</find>
+      <find>pictureuri</find>
+      <find>react-native-tab-navigator</find>
+      <find>添加新的</find>
+      <find>添加空间</find>
+      <find>保存</find>
+      <find>toolbar</find>
+      <find>swipe</find>
+      <find>popover</find>
+      <find>upload</find>
+      <find>image-p</find>
+      <find>购买</find>
+      <find>Camera</find>
+      <find>uploadCommodityImage</find>
+      <find>image</find>
+      <find>render</find>
+      <find>rubro</find>
+      <find>RUBRO</find>
+      <find>react-native-modal-dropdown</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>proxy.postes</replace>
+      <replace>}).then((json)</replace>
+      <replace>}).catch((err)</replace>
+      <replace>var proxy = require('../../proxy/Proxy');</replace>
+      <replace>var proxy = require('../proxy/Proxy');</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/App</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TTTT.json" />
+        <option value="$PROJECT_DIR$/String.json" />
+        <option value="$PROJECT_DIR$/OtherString.json" />
+        <option value="$PROJECT_DIR$/App/containers/GroupManage/index.js" />
+        <option value="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle" />
+        <option value="$PROJECT_DIR$/android/app/build/intermediates/assets/debug/index.android.bundle" />
+        <option value="$PROJECT_DIR$/App/containers/PriceSurvey/PriceDeviation.js" />
+        <option value="$PROJECT_DIR$/App/containers/Sale/Sale.js" />
+        <option value="$PROJECT_DIR$/App/reducers/user.js" />
+        <option value="$PROJECT_DIR$/App/containers/GroupManage/GroupSplit.js" />
+        <option value="$PROJECT_DIR$/ChineseString.json" />
+        <option value="$PROJECT_DIR$/App/action/types.js" />
+        <option value="$PROJECT_DIR$/App/reducers/sale.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/index.android.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIImplementation.java" />
+        <option value="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/ReactModalHostView.java" />
+        <option value="$PROJECT_DIR$/Readme" />
+        <option value="$PROJECT_DIR$/Language/indexLanguage.js" />
+        <option value="$PROJECT_DIR$/App/proxy/Proxy.js" />
+        <option value="$PROJECT_DIR$/App/styles/Styles.js" />
+        <option value="$PROJECT_DIR$/App/css/Styles.js" />
+        <option value="$PROJECT_DIR$/App/util_Components/util_TouchableOpacity.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-popover/Popover.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native/Libraries/CustomComponents/Navigator/Navigator.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.ios.js" />
+        <option value="$PROJECT_DIR$/App/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-camera/index.js" />
+        <option value="$PROJECT_DIR$/App/containers/GoodAddCopy.js" />
+        <option value="$PROJECT_DIR$/App/containers/Login.js" />
+        <option value="$PROJECT_DIR$/App/components/modal/CodesModal.js" />
+        <option value="$PROJECT_DIR$/App/components/modal/WaitTip.js" />
+        <option value="$PROJECT_DIR$/App/utils/ScreenUtil.js" />
+        <option value="$PROJECT_DIR$/App/containers/MyPlanList.js" />
+        <option value="$PROJECT_DIR$/App/containers/ModifyPassword.js" />
+        <option value="$PROJECT_DIR$/t/event1.js" />
+        <option value="$PROJECT_DIR$/App/components/modal/CodeNumModal.js" />
+        <option value="$PROJECT_DIR$/App/containers/App.js" />
+        <option value="$PROJECT_DIR$/App/containers/QueryCopy.js" />
+        <option value="$PROJECT_DIR$/Language/ChineseString.json" />
+        <option value="$PROJECT_DIR$/App/containers/Commodityinfo.js" />
+        <option value="$PROJECT_DIR$/App/containers/SpaceList.js" />
+        <option value="$PROJECT_DIR$/App/components/modal/AddVentasSpace.js" />
+        <option value="$PROJECT_DIR$/App/containers/Query.js" />
+        <option value="$PROJECT_DIR$/App/containers/GoodAdd.js" />
+        <option value="$PROJECT_DIR$/Language/OtherString.json" />
+        <option value="$PROJECT_DIR$/App/action/actionCreator.js" />
+        <option value="$PROJECT_DIR$/App/containers/MainList.js" />
+        <option value="$PROJECT_DIR$/Language/IndexLanguage.js" />
+        <option value="$PROJECT_DIR$/config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="710" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="supnuevo_ventas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supnuevo_ventas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supnuevo_ventas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supnuevo_ventas" type="462c0819:PsiDirectoryNode" />
+              <item name="Language" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="329" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="329" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="329" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="328" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="197" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="216" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="220" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="682" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/Language/OtherString.json&#10;popover&#9;null&#9;null&#10;LOGIN&#9;FILE&#9;file:///Users/lli/Documents/study/supnuevo_ventas/App/containers/Login.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App/components/modal" />
+      <recent name="$PROJECT_DIR$/App/containers" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/App/css" />
+      <recent name="$PROJECT_DIR$/Language" />
+      <recent name="$PROJECT_DIR$/App/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="Query.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="Query.js" working-dir="$PROJECT_DIR$/App/containers">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Query.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",HIDE_INHERITED,SHOW_FIELDS,HIDE_INHERITED_FROM_OBJECT" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65a6f8d-995d-4386-8894-b01dea1a6ed6" name="Default" comment="" />
+      <created>1506432627692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506432627692</updated>
+      <workItem from="1506432628833" duration="2934000" />
+      <workItem from="1506605729046" duration="1000" />
+      <workItem from="1506605954355" duration="942000" />
+      <workItem from="1506729840205" duration="1885000" />
+      <workItem from="1506755841787" duration="733000" />
+      <workItem from="1506758040988" duration="892000" />
+      <workItem from="1506761810531" duration="772000" />
+      <workItem from="1507507643245" duration="543000" />
+      <workItem from="1507531961164" duration="584000" />
+      <workItem from="1507624616444" duration="1919000" />
+      <workItem from="1507943759794" duration="49649000" />
+      <workItem from="1508554211367" duration="74000" />
+      <workItem from="1508554326823" duration="2000" />
+      <workItem from="1508554348385" duration="13191000" />
+      <workItem from="1508764636703" duration="5196000" />
+      <workItem from="1508977243344" duration="1295000" />
+      <workItem from="1509154142296" duration="18463000" />
+      <workItem from="1509347605925" duration="4106000" />
+      <workItem from="1509514858287" duration="579000" />
+      <workItem from="1509754218809" duration="218000" />
+      <workItem from="1509755560349" duration="986000" />
+      <workItem from="1509947310117" duration="19032000" />
+      <workItem from="1510532259570" duration="907000" />
+      <workItem from="1510796609259" duration="2000" />
+      <workItem from="1510927295810" duration="2160000" />
+      <workItem from="1511405843423" duration="3341000" />
+      <workItem from="1511507328864" duration="4527000" />
+      <workItem from="1512446189562" duration="471000" />
+      <workItem from="1512447252919" duration="2242000" />
+      <workItem from="1512538746734" duration="2251000" />
+      <workItem from="1512607718185" duration="2014000" />
+      <workItem from="1512783232334" duration="1713000" />
+      <workItem from="1512955938530" duration="3116000" />
+      <workItem from="1515197195138" duration="704000" />
+      <workItem from="1515590655844" duration="18000" />
+      <workItem from="1516603441521" duration="42583000" />
+      <workItem from="1516931007738" duration="1345000" />
+      <workItem from="1517446087917" duration="6582000" />
+      <workItem from="1517459940207" duration="2992000" />
+      <workItem from="1517562985475" duration="12229000" />
+      <workItem from="1519603770922" duration="2261000" />
+      <workItem from="1519608198852" duration="36328000" />
+      <workItem from="1520038905324" duration="2386000" />
+      <workItem from="1520302944489" duration="4762000" />
+      <workItem from="1520814753989" duration="12033000" />
+      <workItem from="1520909568478" duration="6000" />
+      <workItem from="1520909585483" duration="904000" />
+      <workItem from="1520920533184" duration="17000" />
+      <workItem from="1520927992338" duration="3409000" />
+      <workItem from="1520986812104" duration="14413000" />
+      <workItem from="1521459382296" duration="4420000" />
+      <workItem from="1522134178813" duration="246000" />
+      <workItem from="1522137943934" duration="2190000" />
+      <workItem from="1522414785645" duration="933000" />
+      <workItem from="1522460224319" duration="5000" />
+      <workItem from="1522631686340" duration="1670000" />
+      <workItem from="1522648758532" duration="5494000" />
+      <workItem from="1523264158496" duration="1253000" />
+      <workItem from="1523328620743" duration="1828000" />
+      <workItem from="1523341649604" duration="1069000" />
+      <workItem from="1523427351758" duration="995000" />
+      <workItem from="1523860664451" duration="19017000" />
+      <workItem from="1524270234585" duration="1238000" />
+      <workItem from="1524289559550" duration="5851000" />
+      <workItem from="1524817199256" duration="370000" />
+      <workItem from="1524818099530" duration="322000" />
+      <workItem from="1526440556796" duration="3738000" />
+      <workItem from="1526453660835" duration="5853000" />
+      <workItem from="1526710994643" duration="426000" />
+      <workItem from="1526864191322" duration="27452000" />
+      <workItem from="1527033178288" duration="9681000" />
+      <workItem from="1527898991854" duration="11270000" />
+      <workItem from="1528167371285" duration="67260000" />
+      <workItem from="1529325613764" duration="27916000" />
+      <workItem from="1529539268699" duration="4777000" />
+      <workItem from="1529548696662" duration="26177000" />
+      <workItem from="1529737002573" duration="30133000" />
+      <workItem from="1530260091329" duration="87129000" />
+      <workItem from="1531276942980" duration="11350000" />
+      <workItem from="1531698308526" duration="10347000" />
+      <workItem from="1531877843809" duration="45151000" />
+      <workItem from="1532478880617" duration="558000" />
+      <workItem from="1532479528877" duration="213000" />
+      <workItem from="1532561325584" duration="2571000" />
+      <workItem from="1532742511261" duration="374000" />
+      <workItem from="1532743268714" duration="35000" />
+      <workItem from="1532746798843" duration="345000" />
+      <workItem from="1532830637792" duration="5244000" />
+      <workItem from="1532941392196" duration="265000" />
+      <workItem from="1533020150566" duration="474000" />
+      <workItem from="1533091161459" duration="1333000" />
+      <workItem from="1533717001325" duration="20272000" />
+      <workItem from="1533947309313" duration="2590000" />
+      <workItem from="1534041497602" duration="4181000" />
+      <workItem from="1534129679272" duration="10000" />
+      <workItem from="1534141853273" duration="1336000" />
+      <workItem from="1534146090076" duration="1253000" />
+      <workItem from="1534147833421" duration="15053000" />
+      <workItem from="1534234265797" duration="5257000" />
+      <workItem from="1534254029957" duration="2687000" />
+      <workItem from="1534311466240" duration="23223000" />
+      <workItem from="1534473786660" duration="30000" />
+      <workItem from="1534473961694" duration="111000" />
+      <workItem from="1534474346819" duration="4923000" />
+      <workItem from="1534557254866" duration="16000" />
+      <workItem from="1534557894968" duration="2509000" />
+      <workItem from="1534813951843" duration="55498000" />
+      <workItem from="1535096169115" duration="2368000" />
+      <workItem from="1535161507773" duration="50000" />
+      <workItem from="1535329460290" duration="17739000" />
+      <workItem from="1535509633399" duration="779000" />
+      <workItem from="1535594288464" duration="30000" />
+      <workItem from="1535674262101" duration="2876000" />
+      <workItem from="1535935153230" duration="308000" />
+      <workItem from="1535937383955" duration="326000" />
+      <workItem from="1536020053969" duration="8181000" />
+      <workItem from="1536051516789" duration="90000" />
+      <workItem from="1536105262657" duration="6556000" />
+      <workItem from="1536364192732" duration="6099000" />
+      <workItem from="1536805650750" duration="38000" />
+      <workItem from="1537173146407" duration="789000" />
+      <workItem from="1537316298755" duration="1064000" />
+      <workItem from="1537317877650" duration="4133000" />
+      <workItem from="1537325965213" duration="4125000" />
+      <workItem from="1537424453521" duration="15602000" />
+      <workItem from="1538114299442" duration="46000" />
+      <workItem from="1538534502343" duration="837000" />
+      <workItem from="1538739578630" duration="741000" />
+      <workItem from="1538788105706" duration="372000" />
+      <workItem from="1538790226166" duration="857000" />
+      <workItem from="1538792639175" duration="85000" />
+      <workItem from="1538805940947" duration="664000" />
+      <workItem from="1538879363660" duration="81000" />
+      <workItem from="1538908531157" duration="2110000" />
+      <workItem from="1539848346594" duration="48000" />
+      <workItem from="1540175800808" duration="17149000" />
+      <workItem from="1540433616582" duration="1463000" />
+      <workItem from="1540435623023" duration="916000" />
+      <workItem from="1540448605595" duration="3134000" />
+      <workItem from="1540549539114" duration="626000" />
+      <workItem from="1540554763104" duration="187000" />
+      <workItem from="1540557370433" duration="1270000" />
+      <workItem from="1541376091699" duration="11063000" />
+      <workItem from="1541982062382" duration="5026000" />
+      <workItem from="1543880983940" duration="19444000" />
+      <workItem from="1544524156196" duration="1210000" />
+      <workItem from="1544785929174" duration="2224000" />
+      <workItem from="1546390380423" duration="113000" />
+      <workItem from="1546390651816" duration="1166000" />
+      <workItem from="1546590047564" duration="1824000" />
+      <workItem from="1546819327816" duration="5284000" />
+      <workItem from="1546827804195" duration="534000" />
+      <workItem from="1546834866586" duration="17098000" />
+      <workItem from="1546951234968" duration="254000" />
+      <workItem from="1546951761376" duration="5000" />
+      <workItem from="1546992016704" duration="2011000" />
+      <workItem from="1547044026909" duration="2852000" />
+      <workItem from="1547108088168" duration="30000" />
+      <workItem from="1547108123534" duration="455000" />
+      <workItem from="1547256816812" duration="631000" />
+      <workItem from="1547541822044" duration="910000" />
+      <workItem from="1547547218318" duration="2872000" />
+      <workItem from="1547601075922" duration="156926000" />
+      <workItem from="1548576718193" duration="1680000" />
+      <workItem from="1548664917310" duration="105000" />
+      <workItem from="1548665154713" duration="45056000" />
+      <workItem from="1549363725071" duration="59000" />
+      <workItem from="1549405387654" duration="37680000" />
+      <workItem from="1549667680564" duration="22000" />
+      <workItem from="1549680651428" duration="2430000" />
+      <workItem from="1549752914887" duration="7208000" />
+      <workItem from="1549947759354" duration="10666000" />
+      <workItem from="1550184402303" duration="903000" />
+      <workItem from="1550186375350" duration="8289000" />
+      <workItem from="1550290040539" duration="10000" />
+      <workItem from="1550300476807" duration="1913000" />
+      <workItem from="1550363047292" duration="393000" />
+      <workItem from="1550403203025" duration="5982000" />
+      <workItem from="1550618902602" duration="1594000" />
+      <workItem from="1550710271272" duration="6746000" />
+      <workItem from="1550735979419" duration="10000" />
+      <workItem from="1550791875940" duration="7532000" />
+      <workItem from="1550878397842" duration="2964000" />
+      <workItem from="1550964524211" duration="16905000" />
+      <workItem from="1550996385614" duration="699000" />
+      <workItem from="1551050420297" duration="5004000" />
+      <workItem from="1551060700995" duration="4024000" />
+      <workItem from="1551093892386" duration="11583000" />
+      <workItem from="1551180390767" duration="7329000" />
+      <workItem from="1551223218374" duration="15444000" />
+      <workItem from="1551246167489" duration="1269000" />
+      <workItem from="1551251095143" duration="3000" />
+      <workItem from="1551252560265" duration="4653000" />
+      <workItem from="1551310111582" duration="4259000" />
+      <workItem from="1551319227542" duration="8640000" />
+      <workItem from="1551396909556" duration="2101000" />
+      <workItem from="1551483637225" duration="10000" />
+      <workItem from="1551483683618" duration="2715000" />
+      <workItem from="1551529869885" duration="15000" />
+      <workItem from="1551602375034" duration="1243000" />
+      <workItem from="1551611332013" duration="28000" />
+      <workItem from="1551611473593" duration="349000" />
+      <workItem from="1551613838263" duration="71000" />
+      <workItem from="1551654099574" duration="125000" />
+      <workItem from="1551657691099" duration="623000" />
+      <workItem from="1551678895707" duration="4064000" />
+      <workItem from="1551687416213" duration="678000" />
+      <workItem from="1552004633881" duration="15000" />
+      <workItem from="1552701423803" duration="8215000" />
+      <workItem from="1552728098231" duration="590000" />
+      <workItem from="1552738116570" duration="72000" />
+      <workItem from="1553557379935" duration="28673000" />
+      <workItem from="1553648127944" duration="12000" />
+      <workItem from="1553665367231" duration="154000" />
+      <workItem from="1553665527066" duration="1001000" />
+      <workItem from="1553669792180" duration="7972000" />
+      <workItem from="1553733754487" duration="952000" />
+      <workItem from="1553735595329" duration="763000" />
+      <workItem from="1553748287068" duration="87000" />
+      <workItem from="1553824424171" duration="37000" />
+      <workItem from="1553850101127" duration="707000" />
+      <workItem from="1554602176071" duration="18000" />
+      <workItem from="1554618709472" duration="1064000" />
+      <workItem from="1554679696972" duration="1967000" />
+      <workItem from="1554685667049" duration="775000" />
+      <workItem from="1554766035604" duration="1552000" />
+      <workItem from="1555130158164" duration="632000" />
+      <workItem from="1555131364451" duration="649000" />
+      <workItem from="1555150492133" duration="92000" />
+      <workItem from="1555150688646" duration="23000" />
+      <workItem from="1555224826240" duration="653000" />
+      <workItem from="1555228242020" duration="2000" />
+      <workItem from="1555285630690" duration="445000" />
+      <workItem from="1555287135694" duration="12000" />
+      <workItem from="1555373428675" duration="929000" />
+      <workItem from="1555457962489" duration="25000" />
+      <workItem from="1555458457854" duration="8000" />
+      <workItem from="1555717027223" duration="1083000" />
+      <workItem from="1555807777595" duration="291000" />
+      <workItem from="1555809206476" duration="37000" />
+      <workItem from="1555809487748" duration="8000" />
+      <workItem from="1555809703560" duration="68000" />
+      <workItem from="1559913852550" duration="397000" />
+      <workItem from="1559955641432" duration="383000" />
+      <workItem from="1560061483649" duration="1079000" />
+      <workItem from="1560474891304" duration="595000" />
+      <workItem from="1561527971541" duration="34000" />
+      <workItem from="1561878186598" duration="1200000" />
+      <workItem from="1561941945116" duration="39000" />
+      <workItem from="1562138914533" duration="13000" />
+      <workItem from="1562150868328" duration="1098000" />
+      <workItem from="1562498711725" duration="814000" />
+      <workItem from="1562550149745" duration="163000" />
+      <workItem from="1562803453625" duration="128000" />
+      <workItem from="1563235964074" duration="12000" />
+      <workItem from="1563278972600" duration="705000" />
+      <workItem from="1563344018977" duration="11000" />
+      <workItem from="1563349006212" duration="63000" />
+      <workItem from="1563349074943" duration="353000" />
+      <workItem from="1563407810013" duration="2000" />
+      <workItem from="1563407824574" duration="896000" />
+      <workItem from="1563607566108" duration="38000" />
+      <workItem from="1563933196904" duration="17000" />
+      <workItem from="1563947194314" duration="52000" />
+      <workItem from="1563953168081" duration="22000" />
+      <workItem from="1563957627501" duration="1472000" />
+      <workItem from="1564012762548" duration="401000" />
+      <workItem from="1564037534569" duration="131000" />
+      <workItem from="1564037828637" duration="1345000" />
+      <workItem from="1564056713500" duration="64000" />
+      <workItem from="1564125542995" duration="242000" />
+      <workItem from="1564209682785" duration="341000" />
+      <workItem from="1564213882844" duration="773000" />
+      <workItem from="1564990583679" duration="284000" />
+      <workItem from="1565437139738" duration="1200000" />
+      <workItem from="1565483370062" duration="7000" />
+      <workItem from="1565598201649" duration="1099000" />
+      <workItem from="1565614453982" duration="953000" />
+      <workItem from="1565653962964" duration="615000" />
+      <workItem from="1567220773767" duration="324000" />
+      <workItem from="1567231347731" duration="2605000" />
+      <workItem from="1567235952272" duration="1638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1503572000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="796" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25107297" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32973316" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3259053" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2840909" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286517" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24947146" />
+      <window_info anchor="right" id="Structure" order="3" weight="0.10944206" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32973316" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3259053" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2943662" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24947146" />
+      <window_info anchor="right" id="Structure" order="3" visible="true" weight="0.10944206" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-interface.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/img/cart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/GoodAddCopy.js" />
+    <entry file="file://$PROJECT_DIR$/App/containers/MainListCopy.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/Feather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/FontAwesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/components/modal/WaitTip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-camera/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/util_Components/util_TouchableOpacity.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/utils/ScreenUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t/event1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/css/Styles.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deco/metadata/.settings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/reducers/carInfo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/reducers/timer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/utils/PreferenceStore.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/components/modal/CodesModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-modalbox/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2684">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/components/modal/CodeNumModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/ReactNative/AppRegistry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-modal-dropdown/components/ModalDropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/action/types.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/QueryCopy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="3109" column="9" selection-start-line="3109" selection-start-column="9" selection-end-line="3109" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/ChineseString.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/SpaceList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1971">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/ModifyPassword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/IndexLanguage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/proxy/Proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/MyPlanList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#221#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-fs/FS.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3914">
+          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/Query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42705">
+          <caret line="2898" column="29" selection-start-line="2898" selection-start-column="29" selection-end-line="2898" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/Commodityinfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="2234" selection-start-line="2234" selection-end-line="2244" selection-end-column="6" />
+          <folding>
+            <element signature="e#43#82#0" expanded="true" />
+            <element signature="e#1326#1360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/MainList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/OtherString.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/components/modal/AddVentasSpace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="48" column="71" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/GoodAdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10380">
+          <caret line="731" column="41" selection-start-line="731" selection-start-column="41" selection-end-line="731" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/Entypo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/containers/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="78" column="36" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/action/actionCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

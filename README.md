@@ -1,2 +1,1 @@
-# rnSupnuevoVentas
-SupnuevoVentas for ReactNative
+# Supnuevo_Ventas

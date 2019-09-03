@@ -1,0 +1,4 @@
+#Mon Apr 08 07:50:49 CST 2019
+base.0=/Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/build/intermediates/transforms/dexMerger/debug/571
+path.0=classes.dex
+renamed.0=classes.dex

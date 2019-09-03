@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8F1ACAB3-F406-4736-9EFD-E996D30AA0F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F1ACAB3-F406-4736-9EFD-E996D30AA0F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rnSupnuevo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rnSupnuevo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rnSupnuevo with scheme rnSupnuevo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583843787.357795</real>
+			<key>timeStoppedRecording</key>
+			<real>583843788.75957203</real>
+			<key>title</key>
+			<string>Building project rnSupnuevo with scheme rnSupnuevo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8F1ACAB3-F406-4736-9EFD-E996D30AA0F7</string>
+		</dict>
+		<key>BC5DDDAB-9A5F-4505-A556-08A3F7827EA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC5DDDAB-9A5F-4505-A556-08A3F7827EA9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rnSupnuevo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rnSupnuevo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rnSupnuevo with scheme rnSupnuevo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577500811.60588503</real>
+			<key>timeStoppedRecording</key>
+			<real>577500813.945912</real>
+			<key>title</key>
+			<string>Building project rnSupnuevo with scheme rnSupnuevo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BC5DDDAB-9A5F-4505-A556-08A3F7827EA9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
